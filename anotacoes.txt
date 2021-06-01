@@ -7,3 +7,10 @@ Backend gerenciado pelo Json-Server, pois o foco desse projeto é o uso do Angul
 backend/ npm i json-server
 
 raiz/ npm i -g @angular/cli
+
+No diretorio frontend:
+npm install --save @angular/material 
+ng add @angular/material
+
+Para gerar um componente:
+ng g c components/template/header
