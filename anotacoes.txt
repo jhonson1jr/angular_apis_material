@@ -1,0 +1,9 @@
+Projeto Angular 
+
+Aplicação organizada em módulos e componentes
+
+Backend gerenciado pelo Json-Server, pois o foco desse projeto é o uso do Angular
+
+backend/ npm i json-server
+
+raiz/ npm i -g @angular/cli

@@ -1,0 +1,15 @@
+{
+    "products" : [{
+        "id" : 1,
+        "product" : "Video game",
+        "price"  : 5000.50
+    },{
+        "id" : 2,
+        "product" : "TV",
+        "price"  : 2000
+    },{
+        "id" : 3,
+        "product" : "Notebook",
+        "price"  : 6500
+    }]
+}
