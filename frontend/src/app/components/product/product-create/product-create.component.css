@@ -1,0 +1,8 @@
+form {
+    display: flex; /* todo espaço disponivel */
+    flex-direction: column;  /* elementos abaixo um do outro */
+}
+
+button {
+    margin: 10px 10px 0px 0px;
+}
