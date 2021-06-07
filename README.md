@@ -1,5 +1,5 @@
 ## Angular CRUD APIs
-### Necessários: Npm, Angular, Angular Material UI, Orientação a Objetos, Singleton
+### Necessários: Npm, Angular, Angular Material UI, Orientação a Objetos
 Projeto Angular com consumo de APIs, organizado em módulos, componentes e diretivas.
 <br>
 Uso do Two Way Databinding
